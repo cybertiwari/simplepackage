@@ -1,0 +1,11 @@
+{
+    "name": "cybertiwari/simplepackage",
+    "description": "Simple composer package skeleton",
+    "autoload": {
+        "psr-4": {
+            "CyberTiwari\\SimplePackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
