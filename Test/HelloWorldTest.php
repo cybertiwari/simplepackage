@@ -10,6 +10,6 @@ class HelloWorldTest extends TestCase
     public function testSayHello()
     {
         $data = HelloWorld::sayHello();
-        $this->assertTrue($data == " World");
+        $this->assertTrue($data == "Hello World");
     }
 }
