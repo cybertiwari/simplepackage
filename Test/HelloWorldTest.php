@@ -3,7 +3,6 @@
 namespace CyberTiwari\SimplePackage;
 
 use PHPUnit\Framework\TestCase;
-use CyberTiwari\SimplePackage\HelloWorld;
 
 class HelloWorldTest extends TestCase
 {
